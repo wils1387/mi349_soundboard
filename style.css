@@ -1,0 +1,15 @@
+button{
+    width: 30%;
+    font-size: 24px;
+    border-radius: 8px;
+    background: ghostwhite;
+}
+
+.soundboard{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body{
+    background: rgb(148, 148, 148);
+}
